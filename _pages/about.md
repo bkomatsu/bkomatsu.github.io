@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at the Ruth Cardoso Chair at Insper|Lecturer at Insper
+subtitle: Researcher at the <a href="https://www.insper.edu.br/pesquisa-e-conhecimento/centro-de-gestao-e-politicas-publicas/catedra-ruth-cardoso/">Ruth Cardoso Chair at Insper</a>  | Lecturer at <a href="https://www.insper.edu.br/en/">Insper</a>
 
 profile:
   align: right
