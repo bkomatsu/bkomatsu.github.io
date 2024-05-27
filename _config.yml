@@ -84,11 +84,11 @@ instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
-lattes_id: http://lattes.cnpq.br/3109887032201947 # your ID on Lattes (Brazilian Lattes CV)
+lattes_id: 3109887032201947 # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: https://orcid.org/0000-0002-7731-3422 # your ORCID ID
+orcid_id: 0000-0002-7731-3422 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
