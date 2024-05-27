@@ -6,7 +6,7 @@ subtitle: Researcher at the <a href="https://www.insper.edu.br/pesquisa-e-conhec
 
 profile:
   align: right
-  image: 
+  image: foto_site.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     
