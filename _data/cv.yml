@@ -12,20 +12,20 @@
   type: time_table
   contents:
     - title: PhD in Economics
-      institution: University of São Paulo, São Paulo, Brazil
+      institution: University of Sao Paulo, Sao Paulo, Brazil
       year: 2019
-      
+
 - title: Experience
   type: time_table
   contents:
     - title: Researcher in Public Policy
       institution: Center for Development and Early Childhood at Insper
       year: 2013 - Present
-      
+
     - title: Lecturer in Data Analysis
-      institution: Insper, São Paulo, Brazil
+      institution: Insper, Sao Paulo, Brazil
       year: 2020 - Present
-      
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -45,7 +45,7 @@
     - title: Public Policy
       items:
         - Impact evaluation
-        
+
     - title: Early childhood development
       items:
         - Environmental risk factors
