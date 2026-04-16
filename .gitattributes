@@ -1,0 +1,7 @@
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.liquid text eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.scss text eol=lf
